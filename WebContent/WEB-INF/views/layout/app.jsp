@@ -14,7 +14,7 @@
                 ${param.content}
             </div>
             <div id="footer">
-                by Hiromsa Mishima.
+                by Hiromasa Mishima.
             </div>
         </div>
     </body>
